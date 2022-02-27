@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laws of vvar and ordinances of the sea, ordained and established by the Parliament of the Commonwealth of England; for the regulating and better government of the navies, fleets and ships of war, and armies by sea of the commonwealth of England, and all singular persons, ships, and vessels thereunot belonging; to be put in execution according to an act of this present Parliament, entituled, An act for constituting commissioners for ordering and managing the affairs of the admiralty and navy; and are to be observed and duly obeyed by the vice-admirals, rere-admirals, commanders, captains, lieutenants, masters, masters-mates, and all other officers, mariners, sea-men and soldiers, and all others whomsoever these laws and ordinances may concern, under the pains and penalties therein contained and expressed. Saturday the 25th of December, 1652. Ordered by the Parliament, that these articles be printed. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88826</idno>
+            <idno type="STC">Wing L701</idno>
+            <idno type="STC">Thomason E684_9</idno>
+            <idno type="STC">ESTC R207046</idno>
+            <idno type="EEBO-CITATION">99866122</idno>
+            <idno type="PROQUEST">99866122</idno>
+            <idno type="VID">118386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E684[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laws of vvar and ordinances of the sea, ordained and established by the Parliament of the Commonwealth of England; for the regulating and better government of the navies, fleets and ships of war, and armies by sea of the commonwealth of England, and all singular persons, ships, and vessels thereunot belonging; to be put in execution according to an act of this present Parliament, entituled, An act for constituting commissioners for ordering and managing the affairs of the admiralty and navy; and are to be observed and duly obeyed by the vice-admirals, rere-admirals, commanders, captains, lieutenants, masters, masters-mates, and all other officers, mariners, sea-men and soldiers, and all others whomsoever these laws and ordinances may concern, under the pains and penalties therein contained and expressed. Saturday the 25th of December, 1652. Ordered by the Parliament, that these articles be printed. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, printer to the Paliament of England.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Royal Navy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118386:1" rendition="simple:additions"/>
+            <p>LAWS OF VVAR AND ORDINANCES of the SEA, Ordained and Eſtabliſhed by the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of <hi>England;</hi>
+            </p>
+            <p>For the Regulating and better Government or the Navies, Fleets and ſhips of War, and Armies by ſea of the Commonwealth of <hi>England,</hi> And all and ſingular perſons, ſhips and Veſſels thereunto belonging; to be put in Execution according to an Act of this preſent Parliament, Entituled, <hi>An Act for conſtituting Commiſsioners for Ordering and Managing the Affairs of the Admiralty and Navy;</hi> and to be obſerved and duly obeyed by the Vice-Admirals, Rere-Admirals, Command<g ref="char:EOLhyphen"/>ers, Captains, Lieutenants, Maſters, Maſters<g ref="char:EOLhyphen"/>mates, and all other Officers, Mariners, ſea-men and ſoldiers, and all others whomſoever theſe Laws and Ordinances may concern, under the pains and penalties therein contained and ex<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Saturday the 25<hi rend="sup">th</hi> of <hi>December,</hi> 1652.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That theſe Articles be Printed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118386:2"/>
+            <pb n="3" facs="tcp:118386:2"/>
+            <head>LAWS OF WAR AND ORDINANCES of the SEA, Ordained and Eſtabliſhed by the PARLIAMENT OF THE Commonwealth OF ENGLAND.</head>
+            <p>
+               <label>ARTICLE I.</label>
+               <lb/>
+               <seg rend="decorInit">A</seg>Ll Commanders ſhall endeavor, That Almighty God be ſolemnly and reve<g ref="char:EOLhyphen"/>rently ſerved in the reſpective Ships, all Prophaneneſs and Irreligiouſneſs a<g ref="char:EOLhyphen"/>voided, Preaching and Praying, and other Religi<g ref="char:EOLhyphen"/>ous Duties be exerciſed and duly frequented, and the Lords Day Religiouſly obſerved.</p>
+            <p n="2">II. Unlawful and raſh Oaths, Curſings, Exe<g ref="char:EOLhyphen"/>crations, Drunkenneſs, Uncleanneſs, and other ſcandalous acts in derogation of Gods Honor, and
+<pb n="4" facs="tcp:118386:3"/>corruption of good Maners, ſhall be puniſhed as the Councel of War ſhall think fir.</p>
+            <p n="3">III. All ſuch as ſhall give, practice, hold or enterrain Intelligence, to or with any State, Prince or other, being Enemy or Rebel to this Common<g ref="char:EOLhyphen"/>wealth by any maner of means or ſlights; or have any communication with them, without direction or leave of the Parliament, Councel of State, the Commiſſioners of the Admiralty, Generals at Sea, or Commander in Chief of the Squadron, ſhall be puniſhed with death.</p>
+            <p n="4">IV. If any Letter or Meſſage from the Enemy, or on their behalf, be conveyed to any Inferior Officer, Mariner, Soldier or other in the Fleet; and the ſaid Officer, Mariner, Soldier or other as afore<g ref="char:EOLhyphen"/>ſaid, do not inſtantly acquaint the Superior Com<g ref="char:EOLhyphen"/>mander with it; or if a Superior Officer, being ac<g ref="char:EOLhyphen"/>quainted therewith by an inferior Officer, Mariner or other, or himſelf in his own perſon receiving a Letter or Meſſage from the Enemy, reveal not the ſame forthwith to the Generals, Admirals, or the chief of his Squadron; All ſuch Mariners, Of<g ref="char:EOLhyphen"/>ficers, Soldiers and others, ſhall be puniſhed as Traytors with pains of death.</p>
+            <p n="5">V. No perſon or perſons of the Fleet ſhall re<g ref="char:EOLhyphen"/>lieve the Enemy with Money, Victuals, Powder,
+<pb n="5" facs="tcp:118386:3"/>Shot, Arms or Ammunition, directly or indirect<g ref="char:EOLhyphen"/>ly, upon pain of Death.</p>
+            <p n="6">VI. None ſhall harbor or conceal any Enemy, or known Delinquent or Rebel on Ship-board, nor carry, or endeavor to Tranſport any ſuch be<g ref="char:EOLhyphen"/>yond Sea without Licenſe, upon pain of Death, or other puniſhment as a Councel of War ſhall adjudge.</p>
+            <p n="7">VII. None ſhall preſume wilfully and wittingly to injure or wrong at Sea the known Friends or Al<g ref="char:EOLhyphen"/>lies of this State, either Members of this Common<g ref="char:EOLhyphen"/>wealth or Strangers, not in Enmity, upon pain of ſuch puniſhment as the nature and circumſtances of the Offence ſhall require; nor in viſiting any Ships or Veſſels, either take Goods forcibly, or by force or terror extort them, upon pain of Death, or other puniſhment, according to the nature and circum<g ref="char:EOLhyphen"/>ſtances of the Offence.</p>
+            <p n="8">VIII. All the Papers, Charter parties, Bills of Lading, Paſports and other Writings whatſoever, that ſhall be taken, ſeized or found aboard any ſhip or ſhips which ſhall be ſurpriſed or ſeized as Prize, ſhall be duly preſerved, and not torn nor made away, but the very Originals ſent up entirely and without fraud to the Admiralty Court, there to be viewed, made uſe of and proceeded upon according to Law, upon pain of loſs of all the
+<pb n="6" facs="tcp:118386:4"/>ſhares of the Takers, and ſuch further puniſhment to be inflicted upon the Offenders therein, as the quality of their offence and miſdemeanors ſhall be found to deſerve.</p>
+            <p n="9">IX. None ſhall take out of any Prize or Ship, or Goods ſeized on for Prize, any Money, Plate, Goods, Lading or Tackle, before Judgement firſt thereof paſs in the Admiralty Court; but that the full and entire Accompt of the whole without Im<g ref="char:EOLhyphen"/>bezilment ſhall be brought in, and Judgement paſs entirely upon the whole without fraud, upon pain of ſuch puniſhment as ſhall be found by a Councel of War or the Court of Admiralty (as the caſe may happen) to be juſt; excepting, That it ſhall be lawful for all Captains, Sea-men, Soldiers and others, ſerving as aforeſaid, to take and to have to themſelves as pillage, without further or other accompt to be given for the ſame, All ſuch Goods and Merchandizes (other then Arms, Am<g ref="char:EOLhyphen"/>munition, Tackle, Furniture or Stores of ſuch ſhip) as ſhall be found by them or any of them, in any ſhip (they ſhall take in Fight as Prize) upon or above the Gun-deck of the ſaid ſhip, and not otherwiſe.</p>
+            <p n="10">X. None ſhall imbezil, ſteal or take away any Cables, Anchors, Sails, or other of the ſhips Fur<g ref="char:EOLhyphen"/>niture, or any of the Powder, or Arms or Am<g ref="char:EOLhyphen"/>munition of the ſhip, upon pain of death, or other
+<pb n="7" facs="tcp:118386:4"/>puniſhment, as the quality of the Offence ſhall be found by a Councel of War to deſerve.</p>
+            <p n="11">XI. If any Foreign ſhip or Veſſel ſhall be ta<g ref="char:EOLhyphen"/>ken as Prize that ſhall not fight or make reſiſtance, That in that caſe none of the Captains, Maſters or Mariners, being Foreigners, ſhall be ſtripped of their clothes, or in any ſort pillaged, beaten or evil entreated, upon pain to pay and make good dou<g ref="char:EOLhyphen"/>ble the damages; but the ſaid Foreign ſhips, and all the Goods ſo taken, ſhall be preſerved entire, to receive Judgement in the Admiralty Court, accord<g ref="char:EOLhyphen"/>ing to Right and Juſtice.</p>
+            <p n="12">XII. Every Captain and Commander, upon Signal or Order for Fight, or view or ſight of any ſhips of the Enemy, or likelyhood of Engagement, ſhall put all things in his ſhip in a fit poſture for fight; and cauſe the Lieutenant, and Gunner, and Quarter-maſter, and other Officers to fit them<g ref="char:EOLhyphen"/>ſelves, and Quarter the men according to the num<g ref="char:EOLhyphen"/>ber and quality of Men and Ordnance, with a com<g ref="char:EOLhyphen"/>petent number to ply the ſmall ſhot, and likewiſe to manage and trim the ſails; And every Captain and Officer ſhall in his own perſon, and according to his place, hearten and encourage the Sea-men and common Men to Fight couragiouſly, and not to behave themſelves faintly; nor to yield to the Ene<g ref="char:EOLhyphen"/>my or to cry for Quarter, upon pain of death, or ſuch other puniſhment as the Offence ſhall deſerve.</p>
+            <p n="13">
+               <pb n="8" facs="tcp:118386:5"/>
+XIII. Every Captain and Commander of any Ship, Frigot or Veſſel of War, ſhall duly obſerve the Commands of the General at Sea, or his Su<g ref="char:EOLhyphen"/>perior or Commander of any ſquadron for the Aſſayling or ſetting upon any Fleet, Squadron or ſhips of the Enemy, or joyning Battel with them, or making defence againſt them, upon pain to ſuffer death, or other puniſhment, as the quality of his neglect or offence ſhall deſerve.</p>
+            <p n="14">XIV. Every Captain, and all other Officers, Mariners and Soldiers of every ſhip, Frigot or Veſſel of War, that ſhall in time of any Fight or Engagement withdraw or keep back, or not come in to the Fight and Engage, and do his utmoſt to take, fire, kill and endamage the Enemy, and aſſiſt and relieve all and every the ſhips of this Common<g ref="char:EOLhyphen"/>wealth, ſhall for ſuch Offence of Cowardice or diſ<g ref="char:EOLhyphen"/>affection be tryed, and ſuffer pains of death, or other puniſhment as the Circumſtances of the Of<g ref="char:EOLhyphen"/>fence ſhall deſerve, and the Councel of War ſhall judge fit.</p>
+            <p n="15">XV. Whoſoever, either through cowardize, negligence or dif-affection, ſhall forbear to purſue the Chaſe of any Enemy or Rebel beaten or flying, or ſhall not relieve or aſſiſt a friend in view to the ut<g ref="char:EOLhyphen"/>moſt of his power, ſhall be puniſhed with death or otherwiſe, as a Councel of War ſhall finde juſt.</p>
+            <p n="16">
+               <pb n="9" facs="tcp:118386:5"/>
+XVI. When at any time Service or Action ſhall be commanded, no man ſhall preſume to ſtop or put backward, or diſcourage the ſaid Service and Action by pretence of Arrears of Wages, or up<g ref="char:EOLhyphen"/>on any other pretence whatſoever, upon pain of death.</p>
+            <p n="17">XVII. All Captains, Officers and Sea-men, that either have or ſhall betray their Truſt and turn to the Enemy, and either run away with their Ship, or any Ordnance or Ammunition, or Provi<g ref="char:EOLhyphen"/>ſion, to the weakning of the Service, or yield the ſame up to the Enemy, ſhall be puniſhed with death.</p>
+            <p n="18">XVIII. All Captains, Officers or Mariners that ſhall deſert the ſervice or their imployment in the Ships, or ſhall run away or intice any others ſo to do, ſhall be puniſhed with death.</p>
+            <p n="19">XIX. All Captains of Ships, having once ta<g ref="char:EOLhyphen"/>ken any Commiſſion for taking of Prizes, accord<g ref="char:EOLhyphen"/>ing to any Act, Ordinance or Order of Parliament, or ſerved as any private man of War, or received any Pay or Impreſs, or been otherwiſe imployed from or under the Parliament, that ſhall either turn to the Enemy, or declare themſelves againſt the Parliament, or wilfully ſet upon, Fight with, ſurprize, or take any Ship or Veſſel ſtanding in Obe<g ref="char:EOLhyphen"/>dience to the Parliament or any of their Adhe<g ref="char:EOLhyphen"/>rents,
+<pb n="10" facs="tcp:118386:6"/>or ſhall turn Robber, and uſe to exerciſe Pi<g ref="char:EOLhyphen"/>racy, either upon or againſt any Merchants or other ſhips, ſhall be puniſhed with death.</p>
+            <p n="20">XX. All perſons whatſoever that ſhall come or be found in the nature of Spies, to bring any ſedu<g ref="char:EOLhyphen"/>cing Letters or Meſſages from the Enemy, or ſhall attempt or endeavor to corrupt any Captain, Offi<g ref="char:EOLhyphen"/>cer, Mariner or others of the Navy or Fleet, to be<g ref="char:EOLhyphen"/>tray his or their truſt, and yield up any Ship, or Ammunition, or turn to the Enemy, ſhall be punſh<g ref="char:EOLhyphen"/>ed with death.</p>
+            <p n="21">XXI. None ſhall utter any words of Sedition and Uproar, nor make or endeavor to make any mutinous Aſſemblies upon any pretence whatſo<g ref="char:EOLhyphen"/>ever, upon pain of death.</p>
+            <p n="22">XXII. No perſon ſhall conceal any Mutinous Words, or any Words ſpoken by any to the preju<g ref="char:EOLhyphen"/>dice of the preſent State or Government, or any Words tending to the hindrance of the Service, but ſhall reveal them to his ſuperior, that a meet proceeding may be had thereupon, upon pain of ſuch puniſhment as a Councel of War ſhall finde to be juſt.</p>
+            <p n="23">XXIII. None ſhall preſume to quarrel with his ſuperior Officer, upon pain of ſevere puniſhment, nor to ſtrike any ſuch, upon pain of death, or other<g ref="char:EOLhyphen"/>wiſe
+<pb n="11" facs="tcp:118386:6"/>as a Councel of War ſhall finde the matter to deſerve.</p>
+            <p n="24">XXIV. If any finde cauſe of complaint of the unwholeſomneſs of his Victuals, or upon other juſt ground, he ſhall quietly make the ſame known to his Superior, or Captain, or Commander in chief, as the occaſion may deſerve, that ſuch preſent re<g ref="char:EOLhyphen"/>medy may be had as the matter may require: And the ſaid Superior or Commander is to cauſe the ſame to be preſently remedied accordingly; but no perſon upon any ſuch or other pretence ſhall pri<g ref="char:EOLhyphen"/>vately attempt to ſtir up any Diſturbance, upon pain of ſuch ſevere puniſhment as a Councel of War ſhall finde meet to inflict.</p>
+            <p n="25">XXV. None ſhall quarrel or fight in the ſhip, nor uſe reproachful or provoking ſpeeches, tending to make any quarrel or diſturbance, upon pain of impriſonment, and ſuch other puniſhment as the Offence ſhall deſerve.</p>
+            <p n="26">XXVI. None ſhall uſe any words tending to the death of the Admirals or Generals, upon pain of death.</p>
+            <p n="27">XXVII. Every Captain ſhall keep the number and complement of men allowed to his ſhip full and compleat, and take care to have a full propor<g ref="char:EOLhyphen"/>tion of Mariners and Sea-men, and to get and keep
+<pb n="12" facs="tcp:118386:7"/>ſuch as are able and healthful, and fit for ſervice, and not Boys nor infirm perſons, that ſo the ſhip may be well mann'd for fight, and not be peſtred with Idlers and Boys, upon pain to be puniſhed as the quality of the Offence may deſerve.</p>
+            <p n="28">XXVIII. That there be no waſteful Expence of any Powder, Shot, Ammunition or other Stores, nor any imbezlement thereof, but that the Stores and Proviſions be carefully preſerved, upon ſuch Penalties, by Death, Fine or otherwiſe upon the Offenders, Abettors, Buyers and Receivers, as ſhall be by a Councel of War found juſt in that behalf.</p>
+            <p n="29">XXIX. That care be taken in the conducting and ſteering of the ſhips, that through wilfulneſs, negligence or other default none or the ſhips be ſtranded or run upon any Rocks or Sands, or ſplit or hazarded, upon pain that ſuch as ſhall be found guilty therein, be puniſhed by death or otherwiſe as the offence may deſerve.</p>
+            <p n="30">XXX. None ſhall imbezle any part of the ſhips, Tackle or Furniture, or of the Arms or Ammuni<g ref="char:EOLhyphen"/>tion, upon pain of death.</p>
+            <p n="31">XXXI. All perſons that ſhall wilfully burn or ſet fire on any ſhip, or magazine, or ſtore of pow<g ref="char:EOLhyphen"/>der, or ſhip-boat, ketch, hoy or veſſel, or tackle or
+<pb n="13" facs="tcp:118386:7"/>furniture thereto belonging, not appurtaining to an Enemy, ſhall be puniſhed with death.</p>
+            <p n="32">XXXII. No man ſhall ſleep upon his Watch, or negligently perform the duty impoſed on him, or forſake his ſtation, upon pain of death or leſſer puniſhment, as the circumſtances of the caſe ſhall require.</p>
+            <p n="33">XXXIII. All Murthers and wilful killing of any perſons in the ſhip ſhall be puniſhed with death.</p>
+            <p n="34">XXXIV. All Robbery and Theft ſhall be pu<g ref="char:EOLhyphen"/>niſhed with death or otherwiſe, as the Councel of War (upon conſideration of circumſtances) ſhall finde meet.</p>
+            <p n="35">XXXV. The Captains, Officers and Sea-men of all ſhips appointed for Convoy and Guard of Merchant-ſhips, or any other, ſhall diligently attend upon that charge without delay, according to their Inſtructions in that behalf; and whoſoever ſhall be faulty therein, and ſhall not faithfully per<g ref="char:EOLhyphen"/>form the ſame, and defend the ſhips and goods in their Convoy, without either diverting to other parts or occaſions, or refuſing or neglecting to fight in their defence, if they be ſet upon or aſſailed, or running away cowardly and ſubmitting thoſe in their Convoy to peril and hazard, ſhall be con<g ref="char:EOLhyphen"/>demned to make reparation of the Damage to the
+<pb n="14" facs="tcp:118386:8"/>Merchants, and Owners, and others, as the Court of Admiralty ſhall adjudge; and ſhall alſo be pu<g ref="char:EOLhyphen"/>niſhed criminally, according to the quality and quantity of their Offences, be it by pains of death or leſſer puniſhment: And that no Captain, Ma<g ref="char:EOLhyphen"/>ſter of other Officer of any ſhip belonging to the State or in their ſervice, ſhall demand, receive, or take from any Merchant or other, whoſe ſhip or goods he is appointed to Convoy, any Fee, Gratui<g ref="char:EOLhyphen"/>ty or Reward in reſpect thereof, upon pain that ſuch Captain, Maſter and Officer ſhall for ſuch Offence be caſhiered.</p>
+            <p n="36">XXXVI. No Provoſt-Marſhal belonging to the Fleet ſhall refuſe to receive or to keep any Pri<g ref="char:EOLhyphen"/>ſoner committed to his charge, nor diſmiſs him, nor ſuffer him to eſcape, being once in his cuſtody, upon pain of being lyable to the ſame puniſhment which ſhould have been inflicted upon the party dismissed or permitted to escape, or such other pu<g ref="char:EOLhyphen"/>nishment as the Councel of War ſhall think fit.</p>
+            <p n="37">XXXVII. No man ſhall preſume to uſe any braving or menacing Words, Signs or Geſtures while the Court-Martial is ſitting, upon pain of Fine and Impriſonment.</p>
+            <p n="38">XXXVIII. All Captains, Officers and Sea<g ref="char:EOLhyphen"/>men ſhall do their endeavor to detect, apprehend, and bring to puniſhment all Offenders, and ſhall
+<pb n="15" facs="tcp:118386:8"/>aſſiſt the Officers appointed for that purpoſe there<g ref="char:EOLhyphen"/>in, upon pain to be proceeded againſt and puniſhed in the Court-Marſhal at diſcretion.</p>
+            <p n="39">XXXIX. All other Faults, Diſorders and Of<g ref="char:EOLhyphen"/>fences not mentioned in theſe Articles, ſhall be pu<g ref="char:EOLhyphen"/>niſhed according to the Laws and Cuſtoms of the Sea, and according to the general Cuſtoms and Laws of War.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
